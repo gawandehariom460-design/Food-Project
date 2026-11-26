@@ -1,0 +1,1 @@
+document.querySelectorAll(".dish form button").forEach(button=>button.addEventListener("click",()=>{button.textContent="Adding…"}));
